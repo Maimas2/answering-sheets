@@ -1,7 +1,6 @@
 // This file contains exhaustive documentation and examples of all features.
 
-//#import "@preview/answering-sheets:0.1.0": *
-#import "./lib.typ": *
+#import "@preview/answering-sheets:0.1.0": *
 
 // Uncomment to show any specified solutions.
 //#show-solutions()
