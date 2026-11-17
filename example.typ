@@ -1,11 +1,11 @@
 // This file contains exhaustive documentation and examples of all features.
 
-#import "@preview/answering-sheets:0.1.0": *
+#import "@preview/dh-sheets:0.1.0": *
 
 // Uncomment to show any specified solutions.
 //#show-solutions()
 
-#show: answer-sheet.with(
+#show: dh-sheet.with(
   // Paper size. Default `us-letter`.
   paper-size: "us-letter",
   

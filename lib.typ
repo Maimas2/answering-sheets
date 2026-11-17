@@ -52,7 +52,7 @@
   }
 }
 
-#let answer-sheet(
+#let dh-sheets(
   paper-size: "us-letter",
   fonts: "New Computer Modern",
   language: "EN",

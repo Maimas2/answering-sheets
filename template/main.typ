@@ -1,6 +1,6 @@
-#import "@preview/answering-sheets:0.1.0": *
+#import "@preview/dh-sheets:0.1.0": *
 
-#show: answer-sheet.with(
+#show: dh-sheets.with(
   paper-size: "us-letter",
   institute: "CMU Science Olympiad",
   author: "Name here",

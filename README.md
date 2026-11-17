@@ -1,13 +1,13 @@
-# Answering Sheets
+# DH Sheets
 
-Answering Sheets is a Typst template for generate answer sheets for exams in which questions are stored separately. This template was purpose-built for Carnegie Mellon Science Olympiad, but is generally applicable to exams.
+DH Sheets is a Typst template for generate answer sheets for exams in which questions are stored separately. This template was purpose-built for Carnegie Mellon Science Olympiad, but is generally applicable to exams.
 
 ## Configuration
 
 A sample configuration for an academic exam, after importing the package, could look similar to the following:
 
 ```typst
-#show: answer-sheet.with(
+#show: dh-sheets.with(
   institute: "CMU Science Olympiad",
   author: "Name Here",
   exam-name: "Answer Sheet",
